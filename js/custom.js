@@ -25,16 +25,16 @@ $(function() {
     });
 
     // typejs
-    $('.header .caption h6').typed({
-        strings: ["Nice To Meet You", "I'm A Software Developer", "With A Background In Music"],
-        loop: true,
-        startDelay: 1000,
-        backDelay: 1000,
-        typeSpeed: 30,
-        showCursor: true,
-        cursorChar: '|',
-        autoInsertCss: true
-    });
+    // $('.header .caption h6').typed({
+    //     strings: ["Nice To Meet You", "I'm A Software Developer", "With A Background In Music"],
+    //     loop: true,
+    //     startDelay: 1000,
+    //     backDelay: 1000,
+    //     typeSpeed: 30,
+    //     showCursor: true,
+    //     cursorChar: '|',
+    //     autoInsertCss: true
+    // });
 
 
     //button
