@@ -308,7 +308,7 @@ p {
 }
 @media screen and (max-width: 691px) {
   .header {
-    background-image: url(../img/seafoamMobile.jpg);
+    background-image: url(../img/seafoam1.jpg);
   }
 }
 .header:after {
